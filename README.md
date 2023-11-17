@@ -11,6 +11,13 @@
   <img src="https://pa1.aminoapps.com/7042/483b22fa2006762461af06307c65cc3eafd852c4r1-500-370_hq.gif">
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=deborahcrstna&hide=contribs,prs" alt="Anurag's GitHub stats">
+</p>
+
+
+
+
 
 
 

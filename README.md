@@ -1,5 +1,5 @@
 <p align="center">
-  Olá, Eu sou Déborah! <img src="https://art.pixilart.com/b05f0350b191a4f.png" width="30px"> Sou especialista em <ins>análise de testes</ins> e <ins>qualidade de software</ins>. Tenho paixão por garantir a eficiência e precisão de sistemas, aplicando práticas ágeis e ferramentas modernas para entregar soluções robustas e confiáveis.
+  Olá, Eu sou Déborah! <img src="https://art.pixilart.com/b05f0350b191a4f.png" width="30px"> Sou especialista em <ins>análise de testes</ins> e <ins>qualidade de software</ins>. 
 </p>
 
 

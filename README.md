@@ -18,7 +18,7 @@
 
 <h3 align="center">🚀 Áreas de Interesse</h3>
 <p align="center">
-  <strong>Testes de Software | Cypress | Desenvolvimento Web | Sistemas Educacionais</strong>
+  <strong> gray-box testing | Testes funcionais | Desenvolvimento Web |Automação de testes</strong>
 </p>
 
 <p align="center">

@@ -1,20 +1,21 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=f507bd&height=120&section=header"/>
+
 <p align="center">
-  Olá, Eu sou Déborah! <img src="https://art.pixilart.com/b05f0350b191a4f.png" width="30px"> Sou especialista em <ins>análise de testes</ins> e <ins>qualidade de software</ins>. 
+  Olá, Eu sou Déborah! Sou especialista em <ins>análise de testes</ins> e <ins>qualidade de software</ins>. 
 </p>
 
 
 <p align="center">
-  Bem-vindo(a) ao meu perfil do GitHub!
+  Bem-vindo(a) ao meu perfil do GitHub!  <img src="https://i.gifer.com/ZDcp.gif"> 
 </p>
 
 <p align="center">
-  <img src="https://i.gifer.com/5zZZ.gif">
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=deborahcrstna&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=great-gatsby&title_color=ff69b4&icon_color=ff69b4">
-
-</p>
+  <img
+    src="https://i.pinimg.com/originals/9c/7c/20/9c7c2003b25edb6cb14885fc9a1b5a48.gif"
+    width="300"
+    height="300"
+    alt="Gif 1"
+  >
 
 <h3 align="center">🚀 Áreas de Interesse</h3>
 <p align="center">
@@ -31,9 +32,13 @@
 </div>
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/61/2b/8c/612b8c27f15c63c08052d8de2c1bb15b.gif">
+  <img
+    src="https://i.pinimg.com/originals/e3/cc/a9/e3cca9951cf7e6c356fff2c580333b22.gif"
+    width="300"
+    height="300"
+    alt="Gif 2"
+  >
 </p>
-
 <p align="center">
   Uso este perfil do GitHub para mostrar alguns conhecimentos que fui adquirindo com o tempo. Sinta-se à vontade para explorar meus repositórios. 
 </p>
@@ -42,7 +47,11 @@
   Vamos trocar conhecimento e construir juntos! ✨
 </p>
 
-<p align="center">
-  <img src="https://img1.picmix.com/output/stamp/normal/1/0/0/5/1775001_5d003.gif" width="160px">
-</p>
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=deborahcrstna&show_icons=true&count_private=true&hide_border=true&title_color=fc6ada&icon_color=f507bd&text_color=c9d1d9&bg_color=0d1117" alt="Déborah github stats"/> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deborahcrstna&layout=compact&hide_border=true&title_color=fc6ada&text_color=c9d1d9&bg_color=0d1117" />
+</div>
+
+[![Meu GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=deborahcrstna&bg_color=000000&color=f507bd&line=d152b3&point=fc95e4&area=true&hide_border=true)](https://github.com/MatheusAlvarez/github-readme-activity-graph)
+
 

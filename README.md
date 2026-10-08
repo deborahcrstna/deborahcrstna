@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=f507bd&height=120&section=header"/>
 
 <p align="center">
-  Olá, Eu sou Déborah! Sou especialista em <ins>análise de testes</ins> e <ins>qualidade de software</ins>. 
+  Olá, Eu sou Déborah! 
 </p>
 
 
